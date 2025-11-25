@@ -21,6 +21,8 @@ The project explores:
 This project demonstrates how machine learning can be used to synthetically generate metallurgical microstructures with high fidelity.
 
 ---
+![Architecture Daigram](Documents/C-Gan_Arch.png)
+---
 
 ##  Key Features
 - ✔ Complete CGAN architecture (Generator + Discriminator)
